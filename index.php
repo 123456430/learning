@@ -6,9 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-
-        
-    ?>
+    
 </body>
-</html>
+
+<?php 
+$str= "имя";
+echo "$str";
+echo "<input type= 'text'>" . '<br>';
+$st ="фамилия";
+echo "$st";
+echo "<input type = 'text'>". '<br>';
+?>
